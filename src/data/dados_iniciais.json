@@ -1,12 +1,12 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Lucas The Spider",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Ir para o canal",
+        "url": "https://www.youtube.com/user/joshuaslice"
       },
       "videos": [
         {
@@ -14,170 +14,170 @@
           "url": "https://www.youtube.com/watch?v=TyOpNGXMX0o"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Lucas The Spider",
+          "url": "https://www.youtube.com/watch?v=VrS6akzR3sk"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Lucas the Spider - Horror Stories",
+          "url": "https://www.youtube.com/watch?v=sXmTkRdENNg"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Lucas the Spider - designed together",
+          "url": "https://www.youtube.com/watch?v=9XF-b1efM_w"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Lucas the Spider - I'm Starving",
+          "url": "https://www.youtube.com/watch?v=88Ft83XvkSY"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Lucas the Spider - Again",
+          "url": "https://www.youtube.com/watch?v=CUNq2_VjRn4"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Lucas the Spider - The Giant Spider",
+          "url": "https://www.youtube.com/watch?v=v7H_Or9Nr5I"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Lucas the spider - don't eat me",
+          "url": "https://www.youtube.com/watch?v=_2Bib94U35Y"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Blue Ham Ham",
+      "cor": "#ffa3da",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Ir para o canal",
+        "url": "https://www.youtube.com/channel/UCw3PQjMe2Xjhs9fBBAhchkg"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Roses",
+          "url": "https://www.youtube.com/watch?v=P2oOX04CU5s"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Space Hamster Quartet",
+          "url": "https://www.youtube.com/watch?v=EA7FUJxb1Vc"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Missy Elliott - Lose Control",
+          "url": "https://www.youtube.com/watch?v=AixFoJULc_Q"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "NK - ELEFANTE",
+          "url": "https://www.youtube.com/watch?v=xfBiLy3gB-A"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Die Antwoord - Beat Boy",
+          "url": "https://www.youtube.com/watch?v=lJfYlcoXkM8"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Baby",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Ir para playlist",
+        "url": "https://www.youtube.com/watch?v=3UJAxpmH65Q&list=PLsxdIDdKw5VrD0SC216rWPwlYGLa4Zjqi"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Baby diz não é a mamãe",
+          "url": "https://www.youtube.com/watch?v=OUtCqhW9O2U"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Baby se enchendo de açúcar",
+          "url": "https://www.youtube.com/watch?v=8TQyHhxJnK8"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Baby com medo do escuro",
+          "url": "https://www.youtube.com/watch?v=Ovl1MHiOIzE"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Baby - Ovinhos",
+          "url": "https://www.youtube.com/watch?v=i4_QmVz_u3Y"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Short Films",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Hair Love",
+          "url": "https://www.youtube.com/watch?v=kNw8V_Fkw28"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "A Sci-Fi Short Film: Spark - by Charles Benevento",
+          "url": "https://www.youtube.com/watch?v=T7zo97PynYo"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "CGI 3D Animated Short Print Your Guy",
+          "url": "https://www.youtube.com/watch?v=7mbUzEPr4iM"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "The Present by Jacob Frey",
+          "url": "https://www.youtube.com/watch?v=lcsiix8aDJA"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Cute Animals",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Ir para o canal",
+        "url": "https://www.youtube.com/channel/UC4cHAlpO0Aaib0KUnFxTX2g"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Cute baby animals 2",
+          "url": "https://www.youtube.com/watch?v=b08_U6x8ZqM"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Cute baby animals 3",
+          "url": "https://www.youtube.com/watch?v=-VE7EzIp5Gg"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Cute baby animals 18",
+          "url": "https://www.youtube.com/watch?v=V5HLsmJwONo"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Cute baby animals 17",
+          "url": "https://www.youtube.com/watch?v=pj3nTVqrMCw"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Cute baby animals 21",
+          "url": "https://www.youtube.com/watch?v=lS-6cLkunEQ"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "8 bit Songs",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Ir para o canal",
+        "url": "https://www.youtube.com/channel/UCn4HDI02U4f3VEsghRX7dRw"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Blinding Lights - The Weeknd",
+          "url": "https://www.youtube.com/watch?v=c1ElC8NkiPI"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Don't Stop Me Now - Queen",
+          "url": "https://www.youtube.com/watch?v=HNwyjhEY-K4"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Thriller - Michael Jackson",
+          "url": "https://www.youtube.com/watch?v=VQWeJYI033Q"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Seven Nation Army - The White Stripes",
+          "url": "https://www.youtube.com/watch?v=QFpf8-C5UWw"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "We Will Rock You & We Are The Champions - Queen",
+          "url": "https://www.youtube.com/watch?v=StyDJYa3mog"
         }
       ]
     }
