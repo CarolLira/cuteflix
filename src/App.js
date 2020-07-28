@@ -13,7 +13,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"A melhor banda que você vai ouvir hoje"}
+        videoDescription={"A Aranha mais fofa do youtube"}
       />
 
       <Carousel
