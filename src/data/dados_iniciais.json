@@ -40,7 +40,7 @@
         {
           "titulo": "Lucas the spider - don't eat me",
           "url": "https://www.youtube.com/watch?v=_2Bib94U35Y"
-        }        
+        }
       ]
     },
     {
@@ -66,10 +66,40 @@
         {
           "titulo": "NK - ELEFANTE",
           "url": "https://www.youtube.com/watch?v=xfBiLy3gB-A"
-        }, 
+        },
         {
           "titulo": "Die Antwoord - Beat Boy",
           "url": "https://www.youtube.com/watch?v=lJfYlcoXkM8"
+        }
+      ]
+    },
+    {
+      "titulo": "Monica Toy",
+      "cor": "#e00000",
+      "link_extra": {
+        "text": "Ir para playlist",
+        "url": "https://www.youtube.com/playlist?list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr"
+      },
+      "videos": [
+        {
+          "titulo": "Mônica Toy | Episódio inédito: Ases no Volante (T08E06)",
+          "url": "https://www.youtube.com/watch?v=9ChGB08F1Ko&list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr&index=2"
+        },
+        {
+          "titulo": "Mônica Toy | Episódio inédito: Céu de Carrossel (T08E05)",
+          "url": "https://www.youtube.com/watch?v=frlgqzvdu3I&list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr&index=3"
+        },
+        {
+          "titulo": "Mônica Toy | Elas por elas (T07E02)",
+          "url": "https://www.youtube.com/watch?v=2WF4QrnNWok&list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr&index=33"
+        },
+        {
+          "titulo": "Mônica Toy | Ultimatoys na Corda Bamba (T07E09)",
+          "url": "https://www.youtube.com/watch?v=CC-TdJ9LtHg&list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr&index=34"
+        },
+        {
+          "titulo": "Mônica Toy | Magalices (T06E29)",
+          "url": "https://www.youtube.com/watch?v=wlHM8phK15c&list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr&index=48"
         }
       ]
     },
@@ -123,7 +153,7 @@
     },
     {
       "titulo": "Cute Animals",
-      "cor": "red",
+      "cor": "#d4b0ff",
       "link_extra": {
         "text": "Ir para o canal",
         "url": "https://www.youtube.com/channel/UC4cHAlpO0Aaib0KUnFxTX2g"
@@ -148,36 +178,6 @@
         {
           "titulo": "Cute baby animals 21",
           "url": "https://www.youtube.com/watch?v=lS-6cLkunEQ"
-        }
-      ]
-    },
-    {
-      "titulo": "8 bit Songs",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Ir para o canal",
-        "url": "https://www.youtube.com/channel/UCn4HDI02U4f3VEsghRX7dRw"
-      },
-      "videos": [
-        {
-          "titulo": "Blinding Lights - The Weeknd",
-          "url": "https://www.youtube.com/watch?v=c1ElC8NkiPI"
-        },
-        {
-          "titulo": "Don't Stop Me Now - Queen",
-          "url": "https://www.youtube.com/watch?v=HNwyjhEY-K4"
-        },
-        {
-          "titulo": "Thriller - Michael Jackson",
-          "url": "https://www.youtube.com/watch?v=VQWeJYI033Q"
-        },
-        {
-          "titulo": "Seven Nation Army - The White Stripes",
-          "url": "https://www.youtube.com/watch?v=QFpf8-C5UWw"
-        },
-        {
-          "titulo": "We Will Rock You & We Are The Champions - Queen",
-          "url": "https://www.youtube.com/watch?v=StyDJYa3mog"
         }
       ]
     }
