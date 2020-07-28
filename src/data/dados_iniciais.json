@@ -2,7 +2,7 @@
   "categorias": [
     {
       "titulo": "Lucas The Spider",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "link": "https://www.youtube.com/user/joshuaslice",
       "cor": "#6BD1FF",
       "link_extra": {
         "text": "Ir para o canal",
@@ -105,7 +105,7 @@
     },
     {
       "titulo": "Baby",
-      "cor": "#9cd33b",
+      "cor": "#6bff7f",
       "link_extra": {
         "text": "Ir para playlist",
         "url": "https://www.youtube.com/watch?v=3UJAxpmH65Q&list=PLsxdIDdKw5VrD0SC216rWPwlYGLa4Zjqi"
@@ -131,7 +131,7 @@
     },
     {
       "titulo": "Short Films",
-      "cor": "orange",
+      "cor": "#ffda6b",
       "videos": [
         {
           "titulo": "Hair Love",
