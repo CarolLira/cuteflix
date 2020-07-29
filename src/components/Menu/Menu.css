@@ -26,10 +26,10 @@
     background: var(--black);
     border-bottom: 2px solid var(--primary);
   }
-  body {
+  /* body {
     --bodyPaddingTop: 94px;
     padding-top: var(--bodyPaddingTop);
-  }
+  } */
   @media (max-width: 800px) {
     .Menu {
       height: 60px;

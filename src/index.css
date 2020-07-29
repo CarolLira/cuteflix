@@ -1,37 +1,54 @@
-
 * {
-  box-sizing: border-box;
-  font-family: 'Spectral', serif;
-  font-size: 22px;
+    box-sizing: border-box;
+    font-family: 'Spectral', serif;
+    font-size: 22px;
 }
 
 :root {
-  /* Cores */
-  --primary: #99ffe5;
-  --black: #000000;
-  --blue: #6BD1FF;
-  --pink: #ffa3da;
-  --red: #e00000;
-  --green: #6bff7f;
-  --orange: #ffda6b;
-  --purple: #d4b0ff;
+    /* Cores */
+    --primary: #99ffe5;
+    --black: #000000;
+    --blue: #6BD1FF;
+    --pink: #ffa3da;
+    --red: #e00000;
+    --green: #6bff7f;
+    --orange: #ffda6b;
+    --purple: #d4b0ff;
 
-  /* Cores Alura */
-  --blackLighter: #9E9E9E;
-  --grayLight: #F5F5F5;
-  --grayMedium: #e5e5e5; 
-  --white: #FFFFFF;
-  --frontEnd: #6BD1FF;
-  --backEnd: #00C86F;
+    /* Cores Alura */
+    --blackLighter: #9E9E9E;
+    --grayLight: #F5F5F5;
+    --grayMedium: #e5e5e5;
+    --white: #FFFFFF;
+    --frontEnd: #6BD1FF;
+    --backEnd: #00C86F;
 }
 
 html,
 body {
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
+    background: var(--black);
 }
 
 a {
-  color: inherit;
-  margin-top: 8px;
-} 
+    color: inherit;
+    margin-top: 8px;
+}
+
+/* regras pra tela 404 */
+
+iframe {
+    width: 90%;
+    height: 80%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+p {
+    color: white;
+    width: 27em;
+    margin: 15px auto;
+}
