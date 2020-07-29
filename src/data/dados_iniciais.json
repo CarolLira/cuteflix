@@ -5,8 +5,8 @@
       "link": "https://www.youtube.com/user/joshuaslice",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Ir para o canal",
-        "url": "https://www.youtube.com/user/joshuaslice"
+        "text": "Playlist",
+        "url": "https://www.youtube.com/watch?v=VrS6akzR3sk&list=PL9J5NQm3fP_gcCl05uhwW7wfdp_aOyD9T"
       },
       "videos": [
         {
@@ -47,8 +47,8 @@
       "titulo": "Blue Ham Ham",
       "cor": "#ffa3da",
       "link_extra": {
-        "text": "Ir para o canal",
-        "url": "https://www.youtube.com/channel/UCw3PQjMe2Xjhs9fBBAhchkg"
+        "text": "Playlist",
+        "url": "https://www.youtube.com/watch?v=P2oOX04CU5s&list=PLswgi6NEAU9zIZaf4Lry95HT3QjSN7QPo"
       },
       "videos": [
         {
@@ -77,7 +77,7 @@
       "titulo": "Monica Toy",
       "cor": "#e00000",
       "link_extra": {
-        "text": "Ir para playlist",
+        "text": "Playlist",
         "url": "https://www.youtube.com/playlist?list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr"
       },
       "videos": [
@@ -107,7 +107,7 @@
       "titulo": "Baby",
       "cor": "#6bff7f",
       "link_extra": {
-        "text": "Ir para playlist",
+        "text": "Playlist",
         "url": "https://www.youtube.com/watch?v=3UJAxpmH65Q&list=PLsxdIDdKw5VrD0SC216rWPwlYGLa4Zjqi"
       },
       "videos": [
@@ -132,6 +132,10 @@
     {
       "titulo": "Short Films",
       "cor": "#ffda6b",
+      "link_extra": {
+        "text": "Ver mais",
+        "url": "https://www.youtube.com/results?search_query=short+films+animated"
+      },
       "videos": [
         {
           "titulo": "Hair Love",
@@ -155,8 +159,8 @@
       "titulo": "Cute Animals",
       "cor": "#d4b0ff",
       "link_extra": {
-        "text": "Ir para o canal",
-        "url": "https://www.youtube.com/channel/UC4cHAlpO0Aaib0KUnFxTX2g"
+        "text": "Playlist",
+        "url": "https://www.youtube.com/watch?v=UB3X2-NuIbY&list=PLRwSuyVvBvzvtvZDBm7WzffIccKZUmiFX"
       },
       "videos": [
         {
