@@ -5,10 +5,11 @@ import { Link } from 'react-router-dom';
 function CadastroVideo() {
     return (
         <PageDefault>
-            <div style={{ marginTop: "130px" }}>
-                <h1>cadastro Vídeo</h1>
+            <div style={{ marginTop: "70px" }}>
+                <h1>Cadastro de Vídeo</h1>
             </div>
             <Link to="/cadastro/Categoria">
+                <p>Cadastrar Categoria</p>
             </Link>
         </PageDefault>
     )

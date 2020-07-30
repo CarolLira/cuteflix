@@ -1,7 +1,6 @@
 * {
     box-sizing: border-box;
     font-family: 'Spectral', serif;
-    font-size: 22px;
     color: var(--white);
 }
 
@@ -35,7 +34,12 @@ html,
 body {
     margin: 0;
     padding: 0;
-    background: var(--black);
+    background-color: var(--black);
+}
+
+p {
+    font-size: 22px;
+    font-weight: 300;
 }
 
 a {
@@ -43,19 +47,8 @@ a {
     margin-top: 8px;
 }
 
-/* regras pra tela 404 */
-
-iframe {
-    width: 90%;
-    height: 80%;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    position: absolute;
-}
-
-p {
-    color: white;
-    width: 27em;
-    margin: 15px auto;
+#root {
+    /* min-height: calc(100vh - var(--bodyPaddingTop)); */
+    display: flex;
+    flex-direction: column;
 }

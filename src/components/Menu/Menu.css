@@ -36,10 +36,10 @@
       justify-content: center;
       border-top: 2px solid var(--primary);
     }
-    body {
+    /* body {
       --bodyPaddingTop: 40px;
       padding-top: var(--bodyPaddingTop);
-    }
+    } */
   }
   
   .ButtonLink {

@@ -164,6 +164,10 @@
       },
       "videos": [
         {
+          "titulo": "Baby Dogs - Cute and Funny Puppy Videos",
+          "url": "https://www.youtube.com/watch?v=D-EwRti8N3U&list=PLRwSuyVvBvzvtvZDBm7WzffIccKZUmiFX&index=46"
+        },
+        {
           "titulo": "Cute baby animals 2",
           "url": "https://www.youtube.com/watch?v=b08_U6x8ZqM"
         },
@@ -178,10 +182,6 @@
         {
           "titulo": "Cute baby animals 17",
           "url": "https://www.youtube.com/watch?v=pj3nTVqrMCw"
-        },
-        {
-          "titulo": "Cute baby animals 21",
-          "url": "https://www.youtube.com/watch?v=lS-6cLkunEQ"
         }
       ]
     }
