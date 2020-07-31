@@ -16,7 +16,7 @@ function PageDefault({ children }) {
     return (
         <React.Fragment>
             <Menu />
-            <Main>
+            <Main style={{marginTop: "70px"}}>
                 {children}
             </Main>
             <Footer />
