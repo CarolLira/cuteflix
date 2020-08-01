@@ -1,240 +1,246 @@
 {
-    "categorias": [
-        {
-            "id": 1,
-            "titulo": "Lucas The Spider",
-            "descricao": "A aranha mais fofa do youtube",
-            "cor": "#6BD1FF",
-            "link_extra": {
-                "text": "Playlist",
-                "url": "https://www.youtube.com/watch?v=VrS6akzR3sk&list=PL9J5NQm3fP_gcCl05uhwW7wfdp_aOyD9T"
-            }
-        },
-        {
-            "id": 2,
-            "titulo": "Blue Ham Ham",
-            "descricao": "Músicos fofinhos",
-            "cor": "#ffa3da",
-            "link_extra": {
-                "text": "Playlist",
-                "url": "https://www.youtube.com/watch?v=P2oOX04CU5s&list=PLswgi6NEAU9zIZaf4Lry95HT3QjSN7QPo"
-            }
-        },
-        {
-            "id": 3,
-            "titulo": "Monica Toy",
-            "descricao": "Turma da Mônica",
-            "cor": "#e00000",
-            "link_extra": {
-                "text": "Playlist",
-                "url": "https://www.youtube.com/playlist?list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr"
-            }
-        },
-        {
-            "id": 4,
-            "titulo": "Baby",
-            "descricao": "Baby - Família Dinossauro",
-            "cor": "#6bff7f",
-            "link_extra": {
-                "text": "Playlist",
-                "url": "https://www.youtube.com/watch?v=3UJAxpmH65Q&list=PLsxdIDdKw5VrD0SC216rWPwlYGLa4Zjqi"
-            }
-        },
-        {
-            "id": 5,
-            "titulo": "Curtas",
-            "descricao": "Filmes curtinhos animados",
-            "cor": "#ffda6b",
-            "link_extra": {
-                "text": "Ver mais",
-                "url": "https://www.youtube.com/results?search_query=short+films+animated"
-            }
-        },
-        {
-            "id": 6,
-            "titulo": "Animais fofos",
-            "descricao": "Animaizinhos",
-            "cor": "#d4b0ff",
-            "link_extra": {
-                "text": "Playlist",
-                "url": "https://www.youtube.com/watch?v=UB3X2-NuIbY&list=PLRwSuyVvBvzvtvZDBm7WzffIccKZUmiFX"
-            }
-        }
-    ],
-    "videos": [
-        {
-            "id": 1,
-            "categoriaId": 1,
-            "titulo": "Lucas The Spider",
-            "url": "https://www.youtube.com/watch?v=TyOpNGXMX0o"
-        },
-        {
-            "id": 2,
-            "categoriaId": 1,
-            "titulo": "Lucas the Spider - designed together",
-            "url": "https://www.youtube.com/watch?v=9XF-b1efM_w"
-        },
-        {
-            "id": 3,
-            "categoriaId": 1,
-            "titulo": "Lucas the Spider - Horror Stories",
-            "url": "https://www.youtube.com/watch?v=sXmTkRdENNg"
-        },
-        {
-            "id": 4,
-            "categoriaId": 1,
-            "titulo": "Lucas the spider - don't eat me",
-            "url": "https://www.youtube.com/watch?v=_2Bib94U35Y"
-        },
-        {
-            "id": 5,
-            "categoriaId": 1,
-            "titulo": "Lucas The Spider - Captured",
-            "url": "https://www.youtube.com/watch?v=Isvqg90LhqM&list=PL9J5NQm3fP_gcCl05uhwW7wfdp_aOyD9T&index=4"
-        },
-        {
-            "id": 6,
-            "categoriaId": 1,
-            "titulo": "Lucas the Spider - I'm Starving",
-            "url": "https://www.youtube.com/watch?v=88Ft83XvkSY"
-        },
-        {
-            "id": 8,
-            "categoriaId": 2,
-            "titulo": "Ben E King - Stand By Me",
-            "url": "https://www.youtube.com/watch?v=mfmDtNzQ3NI&list=PLswgi6NEAU9zIZaf4Lry95HT3QjSN7QPo&index=16"
-          },
-          {
-            "id": 9,
-            "categoriaId": 2,
-            "titulo": "Space Hamster Quartet",
-            "url": "https://www.youtube.com/watch?v=EA7FUJxb1Vc&list=PLswgi6NEAU9zIZaf4Lry95HT3QjSN7QPo&index=3"
-          },
-          {
-            "id": 10,
-            "categoriaId": 2,
-            "titulo": "Missy Elliott - Lose Control",
-            "url": "https://www.youtube.com/watch?v=AixFoJULc_Q"
-          },
-          {
-            "id": 11,
-            "categoriaId": 2,
-            "titulo": "NK - ELEFANTE",
-            "url": "https://www.youtube.com/watch?v=xfBiLy3gB-A"
-          },
-          {
-            "id": 12,
-            "categoriaId": 2,
-            "titulo": "Die Antwoord - Beat Boy",
-            "url": "https://www.youtube.com/watch?v=lJfYlcoXkM8"
-          },
-          {
-            "id": 13,
-            "categoriaId": 3,
-            "titulo": "Mônica Toy | Episódio inédito: Ases no Volante (T08E06)",
-            "url": "https://www.youtube.com/watch?v=9ChGB08F1Ko&list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr&index=2"
-          },
-          {
-            "id": 14,
-            "categoriaId": 3,
-            "titulo": "Mônica Toy | Episódio inédito: Céu de Carrossel (T08E05)",
-            "url": "https://www.youtube.com/watch?v=frlgqzvdu3I&list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr&index=3"
-          },
-          {
-            "id": 15,
-            "categoriaId": 3,
-            "titulo": "Mônica Toy | Elas por elas (T07E02)",
-            "url": "https://www.youtube.com/watch?v=2WF4QrnNWok&list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr&index=33"
-          },
-          {
-            "id": 16,
-            "categoriaId": 3,
-            "titulo": "Mônica Toy | Ultimatoys na Corda Bamba (T07E09)",
-            "url": "https://www.youtube.com/watch?v=CC-TdJ9LtHg&list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr&index=34"
-          },
-          {
-            "id": 17,
-            "categoriaId": 3,
-            "titulo": "Mônica Toy | Magalices (T06E29)",
-            "url": "https://www.youtube.com/watch?v=wlHM8phK15c&list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr&index=48"
-          },
-          {
-            "id": 18,
-            "categoriaId": 4,
-            "titulo": "Baby diz não é a mamãe",
-            "url": "https://www.youtube.com/watch?v=OUtCqhW9O2U"
-          },
-          {
-            "id": 19,
-            "categoriaId": 4,
-            "titulo": "Baby se enchendo de açúcar",
-            "url": "https://www.youtube.com/watch?v=8TQyHhxJnK8"
-          },
-          {
-            "id": 20,
-            "categoriaId": 4,
-            "titulo": "Baby com medo do escuro",
-            "url": "https://www.youtube.com/watch?v=Ovl1MHiOIzE"
-          },
-          {
-            "id": 21,
-            "categoriaId": 4,
-            "titulo": "Baby - Ovinhos",
-            "url": "https://www.youtube.com/watch?v=i4_QmVz_u3Y"
-          },
-          {
-            "id": 22,
-            "categoriaId": 5,
-            "titulo": "Hair Love",
-            "url": "https://www.youtube.com/watch?v=kNw8V_Fkw28"
-          },
-          {
-            "id": 23,
-            "categoriaId": 5,
-            "titulo": "A Sci-Fi Short Film: Spark - by Charles Benevento",
-            "url": "https://www.youtube.com/watch?v=T7zo97PynYo"
-          },
-          {
-            "id": 24,
-            "categoriaId": 5,
-            "titulo": "CGI 3D Animated Short Print Your Guy",
-            "url": "https://www.youtube.com/watch?v=7mbUzEPr4iM"
-          },
-          {
-            "id": 25,
-            "categoriaId": 5,
-            "titulo": "The Present by Jacob Frey",
-            "url": "https://www.youtube.com/watch?v=lcsiix8aDJA"
-          },
-          {
-            "id": 26,
-            "categoriaId": 6,
-            "titulo": "Baby Dogs - Cute and Funny Puppy Videos",
-            "url": "https://www.youtube.com/watch?v=D-EwRti8N3U&list=PLRwSuyVvBvzvtvZDBm7WzffIccKZUmiFX&index=46"
-          },
-          {
-            "id": 27,
-            "categoriaId": 6,
-            "titulo": "Cute baby animals 2",
-            "url": "https://www.youtube.com/watch?v=b08_U6x8ZqM"
-          },
-          {
-            "id": 28,
-            "categoriaId": 6,
-            "titulo": "Cute baby animals 3",
-            "url": "https://www.youtube.com/watch?v=-VE7EzIp5Gg"
-          },
-          {
-            "id": 29,
-            "categoriaId": 6,
-            "titulo": "Cute baby animals 18",
-            "url": "https://www.youtube.com/watch?v=V5HLsmJwONo"
-          },
-          {
-            "id": 30,
-            "categoriaId": 6,
-            "titulo": "Cute baby animals 17",
-            "url": "https://www.youtube.com/watch?v=pj3nTVqrMCw"
-          }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Lucas The Spider",
+      "descricao": "A aranha mais fofa do youtube",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Playlist",
+        "url": "https://www.youtube.com/watch?v=VrS6akzR3sk&list=PL9J5NQm3fP_gcCl05uhwW7wfdp_aOyD9T"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Blue Ham Ham",
+      "descricao": "Músicos fofinhos",
+      "cor": "#ffa3da",
+      "link_extra": {
+        "text": "Playlist",
+        "url": "https://www.youtube.com/watch?v=P2oOX04CU5s&list=PLswgi6NEAU9zIZaf4Lry95HT3QjSN7QPo"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Monica Toy",
+      "descricao": "Turma da Mônica",
+      "cor": "#e00000",
+      "link_extra": {
+        "text": "Playlist",
+        "url": "https://www.youtube.com/playlist?list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Baby",
+      "descricao": "Baby - Família Dinossauro",
+      "cor": "#6bff7f",
+      "link_extra": {
+        "text": "Playlist",
+        "url": "https://www.youtube.com/watch?v=3UJAxpmH65Q&list=PLsxdIDdKw5VrD0SC216rWPwlYGLa4Zjqi"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Curtas",
+      "descricao": "Filmes curtinhos animados",
+      "cor": "#ffda6b",
+      "link_extra": {
+        "text": "Ver mais",
+        "url": "https://www.youtube.com/results?search_query=short+films+animated"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Animais fofos",
+      "descricao": "Animaizinhos",
+      "cor": "#d4b0ff",
+      "link_extra": {
+        "text": "Playlist",
+        "url": "https://www.youtube.com/watch?v=UB3X2-NuIbY&list=PLRwSuyVvBvzvtvZDBm7WzffIccKZUmiFX"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Lucas The Spider",
+      "url": "https://www.youtube.com/watch?v=TyOpNGXMX0o"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Lucas the Spider - designed together",
+      "url": "https://www.youtube.com/watch?v=9XF-b1efM_w"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Lucas the Spider - Horror Stories",
+      "url": "https://www.youtube.com/watch?v=sXmTkRdENNg"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Lucas the spider - don't eat me",
+      "url": "https://www.youtube.com/watch?v=_2Bib94U35Y"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Lucas The Spider - Captured",
+      "url": "https://www.youtube.com/watch?v=Isvqg90LhqM&list=PL9J5NQm3fP_gcCl05uhwW7wfdp_aOyD9T&index=4"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Lucas the Spider - I'm Starving",
+      "url": "https://www.youtube.com/watch?v=88Ft83XvkSY"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Ben E King - Stand By Me",
+      "url": "https://www.youtube.com/watch?v=mfmDtNzQ3NI&list=PLswgi6NEAU9zIZaf4Lry95HT3QjSN7QPo&index=16"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Space Hamster Quartet",
+      "url": "https://www.youtube.com/watch?v=EA7FUJxb1Vc&list=PLswgi6NEAU9zIZaf4Lry95HT3QjSN7QPo&index=3"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Missy Elliott - Lose Control",
+      "url": "https://www.youtube.com/watch?v=AixFoJULc_Q"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "NK - ELEFANTE",
+      "url": "https://www.youtube.com/watch?v=xfBiLy3gB-A"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Die Antwoord - Beat Boy",
+      "url": "https://www.youtube.com/watch?v=lJfYlcoXkM8"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "Mônica Toy | Episódio inédito: Ases no Volante (T08E06)",
+      "url": "https://www.youtube.com/watch?v=9ChGB08F1Ko&list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr&index=2"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Mônica Toy | Episódio inédito: Céu de Carrossel (T08E05)",
+      "url": "https://www.youtube.com/watch?v=frlgqzvdu3I&list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr&index=3"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Mônica Toy | Elas por elas (T07E02)",
+      "url": "https://www.youtube.com/watch?v=2WF4QrnNWok&list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr&index=33"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Mônica Toy | Ultimatoys na Corda Bamba (T07E09)",
+      "url": "https://www.youtube.com/watch?v=CC-TdJ9LtHg&list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr&index=34"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "Mônica Toy | Magalices (T06E29)",
+      "url": "https://www.youtube.com/watch?v=wlHM8phK15c&list=PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr&index=48"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "Baby diz não é a mamãe",
+      "url": "https://www.youtube.com/watch?v=OUtCqhW9O2U"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Baby se enchendo de açúcar",
+      "url": "https://www.youtube.com/watch?v=8TQyHhxJnK8"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Baby com medo do escuro",
+      "url": "https://www.youtube.com/watch?v=Ovl1MHiOIzE"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Baby - Ovinhos",
+      "url": "https://www.youtube.com/watch?v=i4_QmVz_u3Y"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "Hair Love",
+      "url": "https://www.youtube.com/watch?v=kNw8V_Fkw28"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "A Sci-Fi Short Film: Spark - by Charles Benevento",
+      "url": "https://www.youtube.com/watch?v=T7zo97PynYo"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "CGI 3D Animated Short Print Your Guy",
+      "url": "https://www.youtube.com/watch?v=7mbUzEPr4iM"
+    },
+    {
+      "id": 25,
+      "categoriaId": 5,
+      "titulo": "The Present by Jacob Frey",
+      "url": "https://www.youtube.com/watch?v=lcsiix8aDJA"
+    },
+    {
+      "id": 26,
+      "categoriaId": 6,
+      "titulo": "Baby Dogs - Cute and Funny Puppy Videos",
+      "url": "https://www.youtube.com/watch?v=D-EwRti8N3U&list=PLRwSuyVvBvzvtvZDBm7WzffIccKZUmiFX&index=46"
+    },
+    {
+      "id": 27,
+      "categoriaId": 6,
+      "titulo": "Cute baby animals 2",
+      "url": "https://www.youtube.com/watch?v=b08_U6x8ZqM"
+    },
+    {
+      "id": 28,
+      "categoriaId": 6,
+      "titulo": "Cute baby animals 3",
+      "url": "https://www.youtube.com/watch?v=-VE7EzIp5Gg"
+    },
+    {
+      "id": 29,
+      "categoriaId": 6,
+      "titulo": "Cute baby animals 18",
+      "url": "https://www.youtube.com/watch?v=V5HLsmJwONo"
+    },
+    {
+      "id": 30,
+      "categoriaId": 6,
+      "titulo": "Cute baby animals 17",
+      "url": "https://www.youtube.com/watch?v=pj3nTVqrMCw"
+    },
+    {
+      "titulo": "Lucas the Spider - Slipped",
+      "url": "https://www.youtube.com/watch?v=yr5yTuNhj74",
+      "categoriaId": 1,
+      "id": 31
+    }
+  ]
 }
