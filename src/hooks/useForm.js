@@ -29,4 +29,4 @@ function useForm(valoresIniciais) {
   };
 }
 
-export default useForm();
+export default useForm;
