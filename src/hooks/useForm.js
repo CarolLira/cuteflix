@@ -4,17 +4,17 @@ function useForm(valoresIniciais) {
   const [values, setValues] = useState(valoresIniciais);
 
   function setValue(chave, valor) {
+    // chave: nome, descricao, bla, bli
     setValues({
       ...values,
-      [chave]: valor,
+      [chave]: valor, // nome: 'valor'
     });
   }
 
-  function handleChange(info) {
-    const { getAttribute, value } = info.target;
+  function handleChange(infosDoEvento) {
     setValue(
-      getAttribute('name'),
-      value,
+      infosDoEvento.target.getAttribute('name'),
+      infosDoEvento.target.value,
     );
   }
 
